@@ -1,3 +1,3 @@
-def soma(a, c):
-    result = a + c
+def soma(a, s):
+    result = a + s
     print(result)
